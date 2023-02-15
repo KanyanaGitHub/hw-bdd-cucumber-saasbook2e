@@ -20,7 +20,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'pry'
   gem 'pry-byebug'
-  gem 'cucumber-rails' 
+  gem 'cucumber-rails'
   gem 'cucumber-rails-training-wheels'
 end
 
